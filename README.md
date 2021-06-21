@@ -1,4 +1,4 @@
-# Bosch_AI_hackathon_07Jun2021
+# Bosch_AI_hackathon_21Jun2021
 Submission of TEAM "M-Art" towards Bosch AI hackathon in Techgig Code Gladiators 2021
 
 It is a custom object detection model trained for identifying furnitures, doors, cables and cloths.
